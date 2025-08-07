@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Srijanti
-(https://i.imgflip.com/65efzo.gif)
+![](https://i.imgflip.com/65efzo.gif)
+
 
 Highly motivated and recently graduated B.Tech student in Computer Science and Engineering with a strong passion for software development. I enjoy working with Nodejs, REST API's, Mongodb and much more.
 🚀 Eager to contribute to innovative projects, learn continuously, and grow in the tech industry.

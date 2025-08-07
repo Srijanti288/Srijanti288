@@ -9,5 +9,5 @@ Skills: C | JAVA | Python | DSA | HTML | CSS | JavaScript | React.js | Node.js |
 - 🔭 I’m currently working on building real-world MERN stack projects. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Srijanti288)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/srijanti-roy-7b2963250//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/instagram.com/_sreeraaya_444?igsh=Z2kxMTJkeTc4OHA=/)  
+
 
